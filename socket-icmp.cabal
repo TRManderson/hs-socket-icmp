@@ -1,6 +1,6 @@
 name:                socket-icmp
 version:             0.1.0.0
--- synopsis:
+synopsis:            Definitions for ICMP with the `socket` library
 -- description:
 homepage:            https://github.com/TRManderson/socket-icmp#readme
 license:             BSD3
@@ -24,4 +24,4 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/TRManderson/socket-icmp
+  location: https://github.com/TRManderson/hs-socket-icmp
