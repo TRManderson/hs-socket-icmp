@@ -1,13 +1,13 @@
 name:                socket-icmp
-version:             0.1.0.0
-synopsis:            Definitions for ICMP with the `socket` library
+version:             0.1.0.1
+synopsis:            Definitions for using ICMP with the `socket` library
 -- description:
-homepage:            https://github.com/TRManderson/socket-icmp#readme
+homepage:            https://github.com/TRManderson/hs-socket-icmp#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Tom Manderson
+author:              Taylor Manderson
 maintainer:          me@trm.io
-copyright:           2018 Tom Manderson
+copyright:           2018 Taylor Manderson
 category:            Web
 build-type:          Simple
 extra-source-files:  README.md

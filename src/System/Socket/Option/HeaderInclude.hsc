@@ -15,7 +15,7 @@ type HdrInclType = CInt
 #endif
 
 -- |Represents the `IP_HDRINCL` option. 
--- It determines whether or not assume the IP header is included in any data sent over the socket
+-- It determines whether or not to assume the IP header is included in any data sent over the socket
 data HeaderInclude = HeaderInclude Bool deriving (Eq, Show)
 instance SocketOption HeaderInclude where
   getSocketOption s =
